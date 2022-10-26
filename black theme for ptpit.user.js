@@ -5,6 +5,7 @@
 // @author       pxmperc
 // @match        https://ptpit.ru/*
 // @match        https://timetable.ptpit.ru/*
+// @match        http://ptpit.perm.ru/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ptpit.ru
 // @grant        none
 // ==/UserScript==
